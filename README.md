@@ -10,7 +10,7 @@ This repository is created to build strong fundamentals in Python through regula
 
 The main goals of this repository are:
 
-- Learn Python from basics to advanced
+- Learn Python from basics to advanced level
 - Practice daily Python programs
 - Improve problem-solving skills
 - Prepare for interviews and competitive programming
