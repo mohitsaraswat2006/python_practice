@@ -10,3 +10,11 @@ print(name , "age is = ", age , price )
 print(type(name))
 print (type(age))
 print(type(price))
+
+
+# simple program for sum
+
+a = 3
+b = 6
+sum = a + b 
+print(sum)
