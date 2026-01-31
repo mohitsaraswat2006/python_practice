@@ -12,7 +12,7 @@ print (type(age))
 print(type(price))
 
 
-# simple program for sum
+# simple program for sum    
 
 a = 3
 b = 6
