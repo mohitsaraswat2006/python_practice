@@ -6,3 +6,4 @@ while(i <= 10) :
     j = n*i
     i += 1
     print(j)
+  
